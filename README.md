@@ -1,4 +1,6 @@
 # EngageQuotient
+
+### This project was developed for the Silicon Valley Immersion Program (SVIP) held in July 2024
 EngageQuotient aims to enhance the user-based collaborative filtering algorithm and assess its performance against traditional methods. Experimental results show that the improved algorithm achieves lower prediction errors, higher precision, and better recall in sparse data scenarios compared to the conventional approach. By refining collaborative filtering based on user similarity, this enhanced algorithm provides more accurate predictions and reduced processing time, effectively addressing data sparsity and overfitting issues.
 
 
